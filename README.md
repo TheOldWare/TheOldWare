@@ -7,4 +7,7 @@
 * beginner :shield:
 
 # Conexões
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style: max-width:100%;/>
+
+<a href="https://github.com/TheOldWare" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+</a>
