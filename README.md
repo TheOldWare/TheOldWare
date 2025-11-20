@@ -8,6 +8,6 @@
 
 # Conexões
 
-<a href="https://github.com/TheOldWare" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60" style="filter: brightness(0) invert(100);" />
+<a href="https://github.com/TheOldWare">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width:40px height:40px /> 
 </a>
