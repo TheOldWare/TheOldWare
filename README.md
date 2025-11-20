@@ -1,4 +1,4 @@
 # Portfólio
 
 ## Sobre mim
-**Me chamo Johu Xavier Bezerra Florêncio da Silva, sou desenvolvedor inicianteFront-end**
+**Me chamo Johu Xavier Bezerra Florêncio da Silva, sou desenvolvedor iniciante Front-end**
