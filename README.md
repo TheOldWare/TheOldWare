@@ -6,7 +6,4 @@
 * Brasil :brazil:
 * beginner :shield:
 
-# Conexões
-<a href="https://github.com/TheOldWare"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style: max-width:100%;/>   
-</a>
+# Conexões src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style: max-width:100%;/>
