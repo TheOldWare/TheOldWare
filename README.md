@@ -7,4 +7,5 @@
 * beginner :shield:
 
 # Conexões
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width:20px height:20px/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width:20px height:20px/>
