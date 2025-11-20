@@ -7,4 +7,6 @@
 * beginner :shield:
 
 # Conexões
-<i class="devicon-github-original"></i>
+
+<i class="devicon-github-original colored"></i>
+          
