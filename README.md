@@ -8,5 +8,5 @@
 
 # Conexões
 <a href="https://github.com/TheOldWare"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style: max-width:100%;/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" style: max-width:100%;/>   
 </a>
