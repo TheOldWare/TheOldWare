@@ -7,5 +7,4 @@
 * beginner :shield:
 
 # Conexões
-<img align="center" alt="Github" width:20px height:20px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-          
+<img align="center" height="50" width="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light.png">
