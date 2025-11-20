@@ -8,5 +8,7 @@
 
 # Conexões
 
-<i class="devicon-github-original colored"></i>
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
           
