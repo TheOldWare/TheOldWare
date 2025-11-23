@@ -9,5 +9,5 @@
 # Conexões
 
 <a href="https://github.com/TheOldWare">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width:20px height:20px /> 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width:20px height:20px /> 
 </a>
