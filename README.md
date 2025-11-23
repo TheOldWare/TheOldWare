@@ -18,11 +18,11 @@
 </a>
 
 <a href="https://www.instagram.com/ware_html?igsh=dTdyNWU5ZXVjeTE5" target="_blank">
-<img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="50" height="50" style="max-width:100%;" />
+<img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="50" height="40" style="max-width:100%;" />
 </a>
 
 <a href="https://www.reddit.com/u/ware_noob/s/IeualJie7D" target="_blank">
-<img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" width="50" height="50" style="max-width:100%;" />
+<img align="center" src="https://www.svgrepo.com/show/452094/reddit.svg" width="50" height="40" style="max-width:100%;" />
 </a>
 
 
