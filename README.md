@@ -2,13 +2,13 @@
 <img width="1280" height="1280" alt="1000229122" src="https://github.com/user-attachments/assets/4c4b220c-386d-468e-90c6-d9d948e6a318" />
 
 
-## Sobre mim
+## About me
 **Me chamo Johu Xavier Bezerra Florêncio da Silva, sou desenvolvedor iniciante Front-end**
 
 * Brasil :brazil:
 * beginner :shield:
 
-# Conexões
+# Contacts
 
 <div>
 <a href="https://github.com/TheOldWare">
