@@ -1,5 +1,5 @@
 # Portfólio
-<img width="150" height="150" alt="ware pic" style="border-radius: 50%;" src="https://github.com/user-attachments/assets/4c4b220c-386d-468e-90c6-d9d948e6a318" />
+<img width="150" height="150" alt="ware pic" src="https://github.com/user-attachments/assets/4c4b220c-386d-468e-90c6-d9d948e6a318" style="border-radius: 50%;" />
 
 
 ## About me
