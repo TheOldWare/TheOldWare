@@ -10,7 +10,7 @@
 * Brasil :brazil:
 * beginner :shield:
 
-# Contacts
+# Conect with me
 
 
 <a href="https://github.com/TheOldWare" target="_blank">
