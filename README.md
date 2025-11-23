@@ -3,7 +3,9 @@
 
 
 ## About me
-**Me chamo Johu Xavier Bezerra Florêncio da Silva, sou desenvolvedor iniciante Front-end**
+**Me chamo Johu Xavier Bezerra Florêncio da Silva, sou desenvolvedor iniciante Front-end.**
+
+[English] **My name is Johu Xavier Bezerra Florêncio da Silva, and I am a beginner front-end developer.**
 
 * Brasil :brazil:
 * beginner :shield:
