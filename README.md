@@ -10,7 +10,7 @@
 
 <div>
 <a href="https://github.com/TheOldWare">
-<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="50" height="50" /> 
+<img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50" /> 
 </a>
 
 <a href="https://www.instagram.com/ware_html?igsh=dTdyNWU5ZXVjeTE5">
