@@ -37,7 +37,6 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=theoldware&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/theoldware/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=theoldware&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/theoldware/github-readme-stats#gh-light-mode-only)
-<a href="https://github.com/theoldware/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theoldware &layout=compact&langs_count=8&card_width=320" />
-</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoldware&layout=compact)
           
