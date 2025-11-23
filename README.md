@@ -8,8 +8,8 @@
 
 # Conexões
 
-<div>
-<a href="https://github.com/TheOldWare" target="_blank">
+<div style="display: inline-block;">
+<a href="https://github.com/TheOldWare">
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50" />
 </a>
 
