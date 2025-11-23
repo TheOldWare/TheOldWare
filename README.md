@@ -1,4 +1,4 @@
-# Portfólio
+# Profile 
 <img align="center" width="150" height="150" alt="ware pic" src="https://github.com/user-attachments/assets/4c4b220c-386d-468e-90c6-d9d948e6a318" />
 
 
