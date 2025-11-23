@@ -8,7 +8,7 @@
 
 # Conexões
 
-<div style="display: inline-block;">
+<div style="display: inline-flex;">
 <a href="https://github.com/TheOldWare">
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50" />
 </a>
