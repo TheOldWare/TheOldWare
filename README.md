@@ -13,15 +13,15 @@
 # Contacts
 
 <div>
-<a href="https://github.com/TheOldWare">
+<a href="https://github.com/TheOldWare" target="_blank">
 <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50" />
 </a>
 
-<a href="https://www.instagram.com/ware_html?igsh=dTdyNWU5ZXVjeTE5">
+<a href="https://www.instagram.com/ware_html?igsh=dTdyNWU5ZXVjeTE5" target="_blank">
 <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="50" height="50" />
 </a>
 
-<a href="https://www.reddit.com/u/ware_noob/s/IeualJie7D">
+<a href="https://www.reddit.com/u/ware_noob/s/IeualJie7D" target="_blank">
 <img src="https://www.svgrepo.com/show/452094/reddit.svg" width="50" height="50" />
 </a>
 </div>
