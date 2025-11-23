@@ -14,7 +14,7 @@
 
 
 <a href="https://github.com/TheOldWare" target="_blank">
-<img align="center" src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50" style="max-width:100%;" />
+<img align="center" src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="40" style="max-width:100%;" />
 </a>
 
 <a href="https://www.instagram.com/ware_html?igsh=dTdyNWU5ZXVjeTE5" target="_blank">
