@@ -7,9 +7,9 @@
 
 [English] **My name is Johu Xavier Bezerra Florêncio da Silva, and I am a beginner front-end developer.**
 
-* Brazil {:brazil:}
-* Beginner {:shield:}
-* Hardware {:computer:}
+* Brazil { :brazil: }
+* Beginner { :shield: }
+* Hardware { :computer: }
 
 # Conect with me
 
