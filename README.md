@@ -9,7 +9,10 @@
 # Conexões
 
 <div>
-<img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50" /> 
+
+<a href="https://github.com/TheOldWare">
+<img src="https://www.svgrepo.com/show/475654/github-color.svg" width="50" height="50" />
+</a>
 
 <a href="https://www.instagram.com/ware_html?igsh=dTdyNWU5ZXVjeTE5">
 <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="50" height="50" />
